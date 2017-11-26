@@ -1,3 +1,4 @@
+<!-- HTML -->
 <template>
   <div>
     <h1>Register</h1>
@@ -10,8 +11,8 @@
   </div>
 </template>
 
+<!-- Code -->
 <script>
-// testing
 import AuthenticationService from '@/services/AuthenticationService'
 export default {
   data () {
@@ -31,7 +32,7 @@ export default {
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
+<!-- CSS -->
 <style scoped>
 
 </style>
